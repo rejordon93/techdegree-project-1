@@ -97,8 +97,8 @@ header .profile-image:hover {
 }
 
 .tag {
-  background-color: rgb(62, 67, 70, 1);
-  color: black;
+  background-color: rgb(53, 58, 62);
+  color: white;
   padding: 10px;
   border-radius: 5px;
   display: table;
